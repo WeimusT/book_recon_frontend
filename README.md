@@ -1,6 +1,6 @@
 # UI
 
-[UI screenshot](res/ui_screenshot_v1.png)
+![UI screenshot](res/ui_screenshot_v1.png)
 
 # React + TypeScript + Vite
 
